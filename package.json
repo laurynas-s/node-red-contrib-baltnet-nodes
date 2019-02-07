@@ -23,6 +23,6 @@
     "url": "https://github.com/laurynas-s/node-red-contrib-baltnet-nodes.git"
   },
   "dependencies": {
-    "baltnetcore": "file:../BaltnetCore"
+    "node-red-contrib-baltnet-core": "^0.1.2"
   }
 }
