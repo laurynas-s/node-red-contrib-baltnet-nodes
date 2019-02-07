@@ -2,7 +2,6 @@ let baltnetCore = require('node-red-contrib-baltnet-core');
 
 module.exports = function(RED) {
     function SendSmsNode(config) {
-        let sender = config.sender;
         let apiKey = config.apikey;
         let login = config.login;
 
