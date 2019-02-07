@@ -1,4 +1,4 @@
-let baltnetCore = require('baltnetcore');
+let baltnetCore = require('node-red-contrib-baltnet-core');
 
 module.exports = function(RED) {
     function GetBalanceNode(config) {
